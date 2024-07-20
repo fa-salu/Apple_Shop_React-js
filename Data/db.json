@@ -13,6 +13,191 @@
       "password": "22222"
     }
   ],
+  "iphone": [
+    {
+      "id": "1",
+      "name": "iPhone 13",
+      "image": "https://www.apple.com/v/iphone-13/n/images/overview/design/finishes_1__cx5sd3b9m7ym_large.jpg",
+      "description": "Latest iPhone model",
+      "price": 799.99
+    },
+    {
+      "id": "2",
+      "name": "iPhone 13 Pro",
+      "image": "https://www.apple.com/v/iphone-13/n/images/overview/design/finishes_2__cx5sd3b9m7ym_large.jpg",
+      "description": "Pro version of the latest iPhone",
+      "price": 999.99
+    },
+    {
+      "id": "3",
+      "name": "iPhone 12",
+      "image": "https://www.apple.com/v/iphone-12/n/images/overview/design/finishes_1__ed2q8dc5lm4a_large.jpg",
+      "description": "Previous generation iPhone",
+      "price": 699.99
+    },
+    {
+      "id": "4",
+      "name": "iPhone 11",
+      "image": "https://www.apple.com/v/iphone-11/n/images/overview/hero__ex9tixl87dq2_large.jpg",
+      "description": "Affordable iPhone model",
+      "price": 599.99
+    },
+    {
+      "id": "5",
+      "name": "iPhone SE",
+      "image": "https://www.apple.com/v/iphone-se/n/images/overview/hero__exxt7oifvvu2_large.jpg",
+      "description": "Compact and powerful",
+      "price": 399.99
+    }
+  ],
+  "AirPods": [
+    {
+      "id": "1",
+      "name": "AirPods Pro",
+      "image": "https://www.apple.com/v/airpods-pro/n/images/overview/hero__gnvl10ywrvq6_large.jpg",
+      "description": "Active Noise Cancellation, Transparency mode",
+      "price": 249.99
+    },
+    {
+      "id": "2",
+      "name": "AirPods 3rd Gen",
+      "image": "https://www.apple.com/v/airpods-3rd-generation/n/images/overview/hero__gnvl10ywrvq6_large.jpg",
+      "description": "Spatial audio with dynamic head tracking",
+      "price": 179.99
+    },
+    {
+      "id": "3",
+      "name": "AirPods Max",
+      "image": "https://www.apple.com/v/airpods-max/n/images/overview/hero__ed2h3lgji0em_large.jpg",
+      "description": "High-fidelity audio with Active Noise Cancellation",
+      "price": 549.99
+    },
+    {
+      "id": "4",
+      "name": "AirPods 2nd Gen",
+      "image": "https://www.apple.com/v/airpods-2nd-generation/n/images/overview/hero__cdzdp0ow5y8a_large.jpg",
+      "description": "Wireless earphones with the H1 chip",
+      "price": 129.99
+    },
+    {
+      "id": "5",
+      "name": "AirPods Max",
+      "image": "https://www.apple.com/v/airpods-max/n/images/overview/hero__ed2h3lgji0em_large.jpg",
+      "description": "High-fidelity audio with Active Noise Cancellation",
+      "price": 549.99
+    }
+  ],
+  "Accessories": [
+    {
+      "id": "1",
+      "name": "AirTag",
+      "image": "https://www.apple.com/v/airtag/n/images/overview/hero__e58z3vf7v46a_large.jpg",
+      "description": "Track and find your items with precision",
+      "price": 29.99
+    },
+    {
+      "id": "2",
+      "name": "MagSafe Charger",
+      "image": "https://www.apple.com/v/magsafe/n/images/overview/hero__dtzbfptbu8mu_large.jpg",
+      "description": "Wireless charging with MagSafe",
+      "price": 39.99
+    },
+    {
+      "id": "3",
+      "name": "Apple Watch Band",
+      "image": "https://www.apple.com/v/apple-watch/band/n/images/overview/hero__b3tcab2u7aem_large.jpg",
+      "description": "Stylish bands for Apple Watch",
+      "price": 49.99
+    },
+    {
+      "id": "4",
+      "name": "Leather Case",
+      "image": "https://www.apple.com/v/iphone-14-pro/n/images/overview/hero__cdzdp0ow5y8a_large.jpg",
+      "description": "Premium leather case for iPhone",
+      "price": 49.99
+    },
+    {
+      "id": "5",
+      "name": "iPad Keyboard",
+      "image": "https://www.apple.com/v/ipad-pro/n/images/overview/hero__f2zthl1jlxe6_large.jpg",
+      "description": "Keyboard for iPad Pro",
+      "price": 199.99
+    }
+  ],
+  "MacBook": [
+    {
+      "id": "1",
+      "name": "MacBook Air",
+      "image": "https://www.apple.com/v/macbook-air/n/images/overview/hero__eeaee9sz7zi6_large.jpg",
+      "description": "Lightweight and powerful",
+      "price": 999.99
+    },
+    {
+      "id": "2",
+      "name": "MacBook Pro 13\"",
+      "image": "https://www.apple.com/v/macbook-pro-13/n/images/overview/hero__dkwb82mnlki6_large.jpg",
+      "description": "Powerful performance in a compact size",
+      "price": 1299.99
+    },
+    {
+      "id": "3",
+      "name": "MacBook Pro 16\"",
+      "image": "https://www.apple.com/v/macbook-pro-16/n/images/overview/hero__ckcb9eal42em_large.jpg",
+      "description": "Pro-level performance with M1 Pro or Max",
+      "price": 2399.99
+    },
+    {
+      "id": "4",
+      "name": "MacBook Pro 14\"",
+      "image": "https://www.apple.com/v/macbook-pro-14/n/images/overview/hero__cm5n8oysb5e6_large.jpg",
+      "description": "The most powerful 14-inch MacBook",
+      "price": 1999.99
+    },
+    {
+      "id": "5",
+      "name": "MacBook Air M1",
+      "image": "https://www.apple.com/v/macbook-air-13/n/images/overview/hero__dmltoz7lk4si_large.jpg",
+      "description": "M1 chip for ultra-fast performance",
+      "price": 999.99
+    }
+  ],
+  "iPad": [
+    {
+      "id": "1",
+      "name": "iPad Pro",
+      "image": "https://www.apple.com/v/ipad-pro/n/images/overview/hero__flnv9qzgtu2u_large.jpg",
+      "description": "Pro-level power and performance",
+      "price": 799.99
+    },
+    {
+      "id": "2",
+      "name": "iPad Air",
+      "image": "https://www.apple.com/v/ipad-air/n/images/overview/hero__fhlvh9d7fhu6_large.jpg",
+      "description": "Lightweight and powerful",
+      "price": 599.99
+    },
+    {
+      "id": "3",
+      "name": "iPad Mini",
+      "image": "https://www.apple.com/v/ipad-mini/n/images/overview/hero__ez8wv6t7t96m_large.jpg",
+      "description": "Compact and powerful",
+      "price": 499.99
+    },
+    {
+      "id": "4",
+      "name": "iPad 10.2\"",
+      "image": "https://www.apple.com/v/ipad-10-2/n/images/overview/hero__fhmcknmwhis6_large.jpg",
+      "description": "Affordable iPad with great features",
+      "price": 329.99
+    },
+    {
+      "id": "5",
+      "name": "iPad Pro 12.9\"",
+      "image": "https://www.apple.com/v/ipad-pro-12-9/n/images/overview/hero__f0xlfz9qt1u2_large.jpg",
+      "description": "The ultimate iPad experience",
+      "price": 1099.99
+    }
+  ],
   "db": [
     {
       "id": "1",
