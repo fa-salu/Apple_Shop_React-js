@@ -1,0 +1,38 @@
+.nav {
+  background-color: #f8f8f8;
+  padding: 10px 20px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+
+  .menu {
+    .menu-list {
+      list-style: none;
+      display: flex;
+      gap: 20px;
+
+      .menu-item {
+        font-size: 1rem;
+        cursor: pointer;
+        transition: color 0.3s ease;
+
+        a {
+          text-decoration: none;
+          color: inherit;
+
+          &:hover {
+            color: #007bff;
+          }
+        }
+      }
+    }
+  }
+}
